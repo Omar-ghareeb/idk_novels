@@ -120,6 +120,7 @@ header > img {
   display: block;
   background-color: var(--f-color);
   color: var(--s-color);
+  padding-left: 10px;
 }
 
 .main-cont > aside > .cont {
